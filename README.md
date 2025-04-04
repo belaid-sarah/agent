@@ -12,7 +12,7 @@ Search Agent est une application permettant d'exécuter des recherches spécifiq
 
 ### 1️⃣ **Cloner le projet**
 ```sh
-git clone https://github.com/ton-user/nom-du-repo.git
+git clone https://github.com/belaid-sarah/agent.git
 cd nom-du-repo
 
 ## 🦙 Commandes Ollama
