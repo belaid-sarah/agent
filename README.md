@@ -76,3 +76,5 @@ ollama pull llama3     # Modèle principal (7B paramètres)
 ollama pull mistral    # Modèle alternatif (7B paramètres)
 
 ollama serve           # Lancer en premier plan
+
+streamlit run app.py     #run the app
