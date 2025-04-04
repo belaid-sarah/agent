@@ -15,3 +15,11 @@ Search Agent est une application permettant d'exécuter des recherches spécifiq
 git clone https://github.com/ton-user/nom-du-repo.git
 cd nom-du-repo
 
+## 🦙 Commandes Ollama
+
+### Télécharger les modèles :
+```bash
+ollama pull llama3     # Modèle principal (7B paramètres)
+ollama pull mistral    # Modèle alternatif (7B paramètres)
+
+ollama serve           # Lancer en premier plan
